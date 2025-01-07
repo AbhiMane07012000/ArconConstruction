@@ -28,10 +28,6 @@ const Contact = () => {
                     <span class="block font-medium">Pune Office:</span>
                     Plot-71/1, T03, Sector 7, Indrayani Nagar, Allon Square, FL-H/14, Pune - 411 026
                   </p>
-                  <p class="mt-4 text-sm text-gray-700">
-                    <span class="block font-medium">Mumbai Office:</span>
-                    B9, Panchashil C. H. S., Khiza Nagar, Santacruz (West), Mumbai - 400 051
-                  </p>
                 </div>
 
                 {/* <!-- Divider --> */}
