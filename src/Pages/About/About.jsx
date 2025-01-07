@@ -6,7 +6,7 @@ const About = () => {
       id="about"
       className="md:h-full lg:h-[100vh] px-4 pt-5 lg:pt-20 lg:px-10 justify-center items-center"
     >
-      <h2 className=" font-bold text-2xl py-10 lg:py-5 lg:pb-3">ABOUT US</h2>
+      <h2 className=" font-bold text-2xl py-2 lg:py-5">ABOUT US</h2>
       <div className="grid grid-cols-1 lg:grid-cols-2 justify-center items-center">
         <div className="py-10">
           <img className="" src="./images/indian-labourers.webp" alt="labourers" />

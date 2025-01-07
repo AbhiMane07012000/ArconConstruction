@@ -143,18 +143,18 @@ function Header() {
             About
           </Link>
           <Link
-            to="skill"
+            to="client"
             className="block text-black font-semibold font-montserrat hover:text-gray-900 pl-16 py-2 "
             onClick={toggleMenu}
           >
-            Skills
+            Our Clients
           </Link>
           <Link
             to="project"
             className="block text-black font-semibold font-montserrat hover:text-gray-900 pl-16 py-2 "
             onClick={toggleMenu}
           >
-            Projects
+            Our Projects
           </Link>
           <Link
             to="contact"

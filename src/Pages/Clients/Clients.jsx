@@ -55,7 +55,7 @@ const CompanyLogoData = [
   return (
     <div
       id="client"
-      className="md:h-full lg:h-[100vh] px-4 pt-5 lg:pt-44 lg:px-40 justify-center items-center font-code"
+      className="md:h-full lg:h-[100vh] px-4 pt-20 lg:pt-44 lg:px-40 justify-center items-center font-code"
     >
      <h2 className="text-center text-xl lg:text-3xl font-bold">Our Clients</h2>
             <h2 className="text-center text-sm lg:text-xl  my-5">
