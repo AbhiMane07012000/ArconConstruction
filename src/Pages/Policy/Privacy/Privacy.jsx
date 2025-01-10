@@ -44,7 +44,7 @@ const Privacy = () => {
           hard drive and enable us to recognize you as a returning user on your
           next visit.
         </p>
-        <p className="pr-72">
+        <p className="lg:pr-72">
           You can configure your browser to manage cookies according to your
           preferences. For instance, you may choose to:
         </p>

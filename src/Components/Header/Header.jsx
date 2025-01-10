@@ -131,7 +131,7 @@ function Header() {
       {isMenuOpen && (
         <div className=" fixed top-12 md:hidden z-50 space-y-3 bg-white  py-3 w-[100vw]">
           <NavLink
-            to="home"
+            to="/"
             className="block text-black font-semibold font-montserrat hover:text-gray-900 pl-16 py-2 "
             onClick={toggleMenu}
           >
