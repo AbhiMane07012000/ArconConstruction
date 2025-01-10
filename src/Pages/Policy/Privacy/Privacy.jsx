@@ -2,7 +2,7 @@ import React from "react";
 
 const Privacy = () => {
   return (
-    <div className="flex flex-col gap-10 h-[60vh] md:h-full lg:h-[230vh] px-4 pt-20 lg:pt-20 lg:px-40 ">
+    <div className="flex flex-col gap-10  md:h-full lg:h-[230vh] px-4 pt-20 lg:pt-20 lg:px-40 ">
       <div>
         <h3 className="text-2xl font-medium">Use of Personal Information</h3>
         <p className="py-2">
