@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <>
       <footer className="lg:h-[20vh]  flex flex-col justify-center items-center my-5 border-t-[1px] border-slate-300  ">
-        <div className="flex flex-col lg:flex-col justify-center items-center gap-5 pt-16">
+        <div className="flex text-md flex-col lg:flex-row justify-center items-center gap-5 pt-16">
         
           <NavLink to="/privacy-policy">
             Privacy Policy
@@ -16,6 +16,12 @@ const Footer = () => {
           </NavLink>
           <NavLink to="/refund-cancellation-policy">
             Refund and Cancellation 
+          </NavLink>
+          <NavLink to="/shipping-delivery-policy">
+          Shipping and Delivery Policy 
+          </NavLink>
+          <NavLink to="/pricing-policy">
+          Pricing Policy 
           </NavLink>
         </div>
         <h4 className="py-10 text-sm "> ©2025 Arcon Construction PVT Ltd. All Rights Reserved</h4>
