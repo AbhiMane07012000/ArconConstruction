@@ -8,14 +8,14 @@ const Contact = () => {
     >
        <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
           <h2 class="text-3xl font-extrabold text-gray-900">Visit Our Location</h2>
-          <p class="mt-4 text-lg text-gray-600">
+          <p class="mt-4 text-lg text-gray-600 pb-5">
             Experience our vibrant spaces where innovation meets convenience. We're here to welcome you!
           </p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div class="rounded-lg overflow-hidden">
               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.4560444862764!2d73.83904617484876!3d18.643520582474075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b93b05fc13d5%3A0x2e3ca9d3f2f100c4!2sAlcon%20Square!5e0!3m2!1sen!2sin!4v1736165549055!5m2!1sen!2sin"
-                width="100%" height="450" style={{ border: 0 }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                width="100%" height="400" style={{ border: 0 }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
             <div>
               
@@ -26,7 +26,7 @@ const Contact = () => {
                   <h3 class="text-xl font-semibold text-gray-800">Office</h3>
                   <p class="mt-2 text-sm text-gray-700">
                     <span class="block font-medium">Pune Office:</span>
-                    Plot-71/1, T03, Sector 7, Indrayani Nagar, Allon Square, FL-H/14, Pune - 411 026
+                    Plot-71/1, T03, Sector 7, Indrayani Nagar, Alcon Square, FL-H/14, Pune - 411 026
                   </p>
                 </div>
 
