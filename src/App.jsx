@@ -13,6 +13,7 @@ import TermsAndConditions from "./Pages/Policy/TermsAndConditions/TermsAndCondit
 import RefundAndCancellation from "./Pages/Policy/RefundAndCancellation/RefundAndCancellation";
 import ShippingAndDelivery from "./Pages/Policy/ShippingAndDelivery/ShippingAndDelivery";
 import Pricing from "./Pages/Policy/Pricing/Pricing";
+import PaymentGateway from "./Pages/Policy/PaymentGateway/PaymentGateway";
 
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
         <Route path="/refund-cancellation-policy" element={<RefundAndCancellation />} />
         <Route path="/shipping-delivery-policy" element={<ShippingAndDelivery/>} />
         <Route path="/pricing-policy" element={<Pricing />} />
+        <Route path="/payment-gateway" element={<PaymentGateway />} />
       </Routes>
       <Footer />
     </>

@@ -14,11 +14,11 @@ function Header() {
   return (
     <nav className="relative lg:flex justify-center items-center" >
       <div className=" w-[100vw]  py-2 fixed lg:top-0 flex flex-row justify-between  items-center  bg-white  shadow-md  px-10 ">
-        <NavLink to="#home" className="">
+        <NavLink to="/">
           <img
             className="h-10 lg:h-8 "
             src="./Logo.png"
-            alt=""
+            alt="Logo"
           />
         </NavLink>
         <div className="hidden md:flex space-x-8 lg:py-2">

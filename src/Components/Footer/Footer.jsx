@@ -23,6 +23,9 @@ const Footer = () => {
           <NavLink to="/pricing-policy">
           Pricing Policy 
           </NavLink>
+          <NavLink to="/payment-gateway">
+          Payment Gateway 
+          </NavLink>
         </div>
         <h4 className="py-10 text-sm "> ©2025 Arcon Construction PVT Ltd. All Rights Reserved</h4>
       </footer>
